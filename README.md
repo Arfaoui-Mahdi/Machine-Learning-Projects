@@ -1,2 +1,4 @@
 # Machine-Learning-Projects
 These are some projects where i used some techniques of data-structuring, data visualization, algorithms applied on data to Predict, Classify, Cluster or to make a Recommendation System , such as K-nearest algorithm, Decision Tree, Logistic Regression, SVM, Linear and non Linear Regression, K-Means, Hierarchical Clustering, Density-based Clustering, Content-based Recommendation (item-item recommendation systems), Collaborative Filtering (user-user/user-item recommendation system). Also i used some different libraries and eco-systems such as SciPy, SciKit, Pandas, NumPy ... all using the beautiful language Python. 
+Some of these project like cancer detection, predicting economic trends, predicting customer churn, recommendation engines and others are included in this repository.
+These Projects were the assignments to pass my IBM Machine Learning Certificate.
